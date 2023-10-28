@@ -1,0 +1,33 @@
+.weatherBg{
+    background: url("weat.jpg");
+    height: 45vh;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+.head{
+    color: white;
+    font-weight: 700;
+}
+
+.weatherResultbox{
+    margin: auto;
+    width: 500px;
+    height: 250px;
+}
+.wetIc{
+    width: 100px;
+    height: 100px;
+}
+.weCity{
+    font-size: 35px;
+}
+.wetem{
+    font-size: 45px;
+    font-weight: 700;
+}
+.icn{
+    width: 100px;
+    height: 100px;
+}
